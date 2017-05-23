@@ -1,3 +1,0 @@
-path one;
-path two;
-path free;
